@@ -65,6 +65,15 @@ DEPLOY ON HEROKU ✅
 
 --------
 
-*SPECIAL THANKS TO , 👨🏻‍💻🚩
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+*SPECIAL THANKS TO* , 👨🏻‍💻🚩
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ᴏʟᴅ ᴋɪɴɢ ᴀꜱʜ ✅
+
+ᴏʟᴅ ᴋɪɴɢ ᴄʀᴀᴢʏ ᴄʜᴜᴛᴛᴀ ✅
+
+ᴏʟᴅ ᴄʀᴀᴢʏ ᴅɪɴᴀ  ✅
+
+AND SUPPORTER :  
+                             DRK KING VALA 🚩
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
