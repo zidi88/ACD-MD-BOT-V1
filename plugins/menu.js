@@ -15,10 +15,12 @@ let dec = `👋 HEY ${pushname} THIS IS MY MENU 📍
 *© OWNERS*  : ᴏʟᴅ ᴋɪɴɢ ᴀꜱʜ
                       ᴏʟᴅ ᴋɪɴɢ ᴄʀᴀᴢʏ ᴄʜᴜᴛᴛᴀ
                       ᴏʟᴅ ᴋɪɴɢ ᴄʀᴀᴢʏ ᴅɪɴᴀ
+*© SUPPORTER* : ᴅʀᴋ ᴋɪɴɢ ᴠᴀʟᴀ
 
 *© NUMBERS* : +94726645160
                         +94701219309
                         +94768844616
+*© SUPPORTER NUMBER* : +94767737862
 
 ╭──────────●●►
 │📌 LIST MENU
