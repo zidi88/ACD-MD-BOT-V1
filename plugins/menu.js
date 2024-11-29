@@ -12,11 +12,11 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let dec = `👋 HEY ${pushname} THIS IS MY MENU 📍
 
-`© OWNERS` : ᴏʟᴅ ᴋɪɴɢ ᴀꜱʜ
+*© OWNERS* : ᴏʟᴅ ᴋɪɴɢ ᴀꜱʜ
                       ᴏʟᴅ ᴋɪɴɢ ᴄʀᴀᴢʏ ᴄʜᴜᴛᴛᴀ
                       ᴏʟᴅ ᴋɪɴɢ ᴄʀᴀᴢʏ ᴅɪɴᴀ
 
-`© NUMBERS` : +94726645160
+*© NUMBERS* : +94726645160
                         +94701219309
                         +94768844616
 
