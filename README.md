@@ -34,7 +34,7 @@
 
 01 . FIRST FORK THIS REPO 🚩
 
-<a href="https://github.com/ACD-MD-TEAM/ACD-MD-BOT-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
+<a href="https://github.com/ACD-MD-TEAM/ACD-MD-BOT-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="60" width="250" /></a>
   <div>
 <div>
 
