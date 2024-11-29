@@ -2,7 +2,7 @@
 24 HOURS STATUS AUTO SEEN MULTI DEVICE WA BOT ✅
 ***
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ACD-MD-V1;MADE+BY+MAIN+CYBER+TEAM" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ACD-MD-V1;CREATE+BY+MAIN+CYBER+TEAM" alt="Typing SVG" /></a>
 
 ***
 
@@ -34,7 +34,7 @@
 
 02 . GET YOUR SESSION ID USING PAIRCODE 🚩
 
-<a href="https://queen-lithu-md-pair.onrender.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://queen-lithu-md-pair.onrendegr.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="275"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
