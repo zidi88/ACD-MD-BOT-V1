@@ -67,13 +67,14 @@ DEPLOY ON HEROKU ✅
 
 *SPECIAL THANKS TO* , 👨🏻‍💻🚩
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-ᴏʟᴅ ᴋɪɴɢ ᴀꜱʜ ✅
 
+OWNERS : 
+
+ᴏʟᴅ ᴋɪɴɢ ᴀꜱʜ ✅ 
 ᴏʟᴅ ᴋɪɴɢ ᴄʀᴀᴢʏ ᴄʜᴜᴛᴛᴀ ✅
-
 ᴏʟᴅ ᴄʀᴀᴢʏ ᴅɪɴᴀ  ✅
 
-AND SUPPORTER :  
-                             DRK KING VALA 🚩
+AND SUPPORTER : ᴅʀᴋ ᴋɪɴɢ ᴠᴀʟᴀ ✅
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
