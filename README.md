@@ -80,3 +80,12 @@ AND SUPPORTER : ᴅʀᴋ ᴋɪɴɢ ᴠᴀʟᴀ ✅
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
+
+THE BOT IS UNDER THE DEVELOPMENT SOMETIMES YOU CAN SEE SOME ERRORS 💢
+
+DONOT THINK ABOUT THAT ,
+
+*WE WILL FIX THE ERRORS IN THE NEXT UPDATE ✅*
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
