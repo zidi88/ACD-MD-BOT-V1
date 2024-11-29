@@ -56,7 +56,7 @@ DEPLOY ON HEROKU ✅
    </a>
 
 
-### Bot Features 🌅
+### Bot Features 📍
 
 | MAIN MENU | GROUP MENU | DOWNLOAD MENU | SEARCH MENU | OTHER MENU |
 | --------| ----------- | --------- | ----------- | -------- | 
