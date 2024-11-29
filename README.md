@@ -76,7 +76,7 @@ OWNERS :
 
 ᴏʟᴅ ᴄʀᴀᴢʏ ᴅɪɴᴀ  ✅
 
-AND SUPPORTER : ᴅʀᴋ ᴋɪɴɢ ᴠᴀʟᴀ ✅
+ᴅʀᴋ ᴋɪɴɢ ᴠᴀʟᴀ ✅
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
