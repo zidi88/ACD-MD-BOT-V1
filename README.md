@@ -54,3 +54,13 @@ DEPLOY ON HEROKU ✅
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ACD-MD-TEAM/ACD-MD-TESTING)
    </a>
+
+
+### Bot Features 🌅
+
+| MAIN MENU | GROUP MENU | DOWNLOAD MENU | SEARCH MENU | OTHER MENU |
+| --------| ----------- | --------- | ----------- | -------- | 
+| ✅      |  ✅         |    ✅     |     ✅      |     ✅   |
+
+
+--------
